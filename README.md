@@ -1,3 +1,6 @@
+# [UNMAINTAINED]
+This project is not maintained anymore.
+
 # CONTAO EXTENSION: NEWS IMAGE LIST
 Extends the news entries with an image gallery. The images can be sorted in the backend using drag'n'drop and support an optional image caption and link. The frontend module renders the images in a unsorted list.
 
